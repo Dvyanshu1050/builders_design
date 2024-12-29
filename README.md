@@ -1,2 +1,2 @@
 # builders_design
-this is made for building design and their stuctures   
+We design buildings and make structures that look attractive to customers.
